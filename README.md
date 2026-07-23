@@ -28,27 +28,7 @@ StarMIP 是基于 Delphi + SQL Server 开发...。
 
 \- Production Execution
 
-\- Station Control
 
-\- Anti-Theft System
-
-\- SN Traceability
-
-\- Workflow Engine
-
-\- Rule Engine
-
-\- Dashboard
-
-\- Knowledge Center
-
-\- AI Assistant
-
-\- Digital Twin
-
-\- REST API
-
-\- Plugin Platform
 
 
 
