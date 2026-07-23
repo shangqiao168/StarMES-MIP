@@ -1,10 +1,6 @@
 # StarMES-MIP
 
-\# StarMES MIP Enterprise Edition
-
-
-
-Manufacturing Intelligence Platform
+\# StarMIP Enterprise Edition
 
 
 
