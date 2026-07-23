@@ -20,7 +20,7 @@ Version: V1.0.0 Alpha
 
 
 
-StarMES MIP Enterprise Edition 是基于 Delphi XE7 + SQL Server 开发的新一代制造智能平台（Manufacturing Intelligence Platform）。
+StarMIP 是基于 Delphi + SQL Server 开发...。
 
 
 
